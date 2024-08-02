@@ -1,1 +1,1 @@
-# shiny-app-ml-gdpprediction
+# shiny-app-ml-gdp-prediction
